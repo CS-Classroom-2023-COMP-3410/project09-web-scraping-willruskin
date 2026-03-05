@@ -1,0 +1,232 @@
+{
+    "courses": [
+        {
+            "course": "COMP-3000",
+            "title": "Seminar: The Real World"
+        },
+        {
+            "course": "COMP-3009",
+            "title": "Essential Math for Data Science and AI"
+        },
+        {
+            "course": "COMP-3100",
+            "title": "Human-Computer Interaction"
+        },
+        {
+            "course": "COMP-3200",
+            "title": "Discrete Structures"
+        },
+        {
+            "course": "COMP-3334",
+            "title": "Parallel and Distributed Computing for Data Science and AI"
+        },
+        {
+            "course": "COMP-3351",
+            "title": "Programming Languages"
+        },
+        {
+            "course": "COMP-3352",
+            "title": "Elements of Compiler Design"
+        },
+        {
+            "course": "COMP-3353",
+            "title": "Compiler Construction"
+        },
+        {
+            "course": "COMP-3361",
+            "title": "Operating Systems I"
+        },
+        {
+            "course": "COMP-3371",
+            "title": "Data Structures &  Algorithms"
+        },
+        {
+            "course": "COMP-3372",
+            "title": "Advanced Algorithms"
+        },
+        {
+            "course": "COMP-3381",
+            "title": "Software Engineering I"
+        },
+        {
+            "course": "COMP-3382",
+            "title": "Software Engineering II"
+        },
+        {
+            "course": "COMP-3384",
+            "title": "Secure Software Engineering"
+        },
+        {
+            "course": "COMP-3410",
+            "title": "Web Programming I"
+        },
+        {
+            "course": "COMP-3411",
+            "title": "Web Programming II"
+        },
+        {
+            "course": "COMP-3412",
+            "title": "Web Projects: Web Development III"
+        },
+        {
+            "course": "COMP-3421",
+            "title": "Database Organization & Management I"
+        },
+        {
+            "course": "COMP-3424",
+            "title": "NoSQL Databases"
+        },
+        {
+            "course": "COMP-3431",
+            "title": "Data Mining"
+        },
+        {
+            "course": "COMP-3432",
+            "title": "Machine Learning"
+        },
+        {
+            "course": "COMP-3433",
+            "title": "Data Visualization"
+        },
+        {
+            "course": "COMP-3441",
+            "title": "Introduction to Probability and Statistics for Data Science & AI"
+        },
+        {
+            "course": "COMP-3442",
+            "title": "Advanced Probability and Statistics for Data Science"
+        },
+        {
+            "course": "COMP-3450",
+            "title": "Machine Learning Operations"
+        },
+        {
+            "course": "COMP-3455",
+            "title": "Shell Scripting and System Tools"
+        },
+        {
+            "course": "COMP-3456",
+            "title": "Deep Learning for Sequence Data"
+        },
+        {
+            "course": "COMP-3490",
+            "title": "Undestanding AI"
+        },
+        {
+            "course": "COMP-3491",
+            "title": "Applications of Generative AI"
+        },
+        {
+            "course": "COMP-3495",
+            "title": "AI Design Project"
+        },
+        {
+            "course": "COMP-3501",
+            "title": "Introduction to Artificial Intelligence"
+        },
+        {
+            "course": "COMP-3525",
+            "title": "Human Centered AI - Mind Reading Machines"
+        },
+        {
+            "course": "COMP-3531",
+            "title": "Deep Learning: Model Design and Application"
+        },
+        {
+            "course": "COMP-3581",
+            "title": "Algorithms for Data Science & AI"
+        },
+        {
+            "course": "COMP-3591",
+            "title": "Computational Geometry"
+        },
+        {
+            "course": "COMP-3621",
+            "title": "Computer Networking"
+        },
+        {
+            "course": "COMP-3681",
+            "title": "Networking for Games"
+        },
+        {
+            "course": "COMP-3701",
+            "title": "Topics in Computer Graphics"
+        },
+        {
+            "course": "COMP-3702",
+            "title": "Topics in Database"
+        },
+        {
+            "course": "COMP-3703",
+            "title": "Topics-Artificial Intelligence"
+        },
+        {
+            "course": "COMP-3704",
+            "title": "Advanced Topics: Systems"
+        },
+        {
+            "course": "COMP-3705",
+            "title": "Topics in Computer Science"
+        },
+        {
+            "course": "COMP-3711",
+            "title": "Special Topics in Data Science & AI"
+        },
+        {
+            "course": "COMP-3721",
+            "title": "Computer Security"
+        },
+        {
+            "course": "COMP-3722",
+            "title": "Network Security"
+        },
+        {
+            "course": "COMP-3723",
+            "title": "Ethical Hacking"
+        },
+        {
+            "course": "COMP-3731",
+            "title": "Computer Forensics"
+        },
+        {
+            "course": "COMP-3801",
+            "title": "Introduction Computer Graphics"
+        },
+        {
+            "course": "COMP-3820",
+            "title": "Introduction to Game Programming"
+        },
+        {
+            "course": "COMP-3821",
+            "title": "Game Programming I"
+        },
+        {
+            "course": "COMP-3822",
+            "title": "Game Programming II"
+        },
+        {
+            "course": "COMP-3831",
+            "title": "Game Prototyping"
+        },
+        {
+            "course": "COMP-3832",
+            "title": "Game Capstone I"
+        },
+        {
+            "course": "COMP-3833",
+            "title": "Game Capstone II"
+        },
+        {
+            "course": "COMP-3904",
+            "title": "Internship/Co-Op in Computing"
+        },
+        {
+            "course": "COMP-3991",
+            "title": "Independent Study"
+        },
+        {
+            "course": "COMP-3995",
+            "title": "Independent Research"
+        }
+    ]
+}
